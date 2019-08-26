@@ -3,6 +3,8 @@
 > Social network for developers
 
 This is a MERN stack application from the "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). It is a small social network app that includes authentication, profiles and forum posts.
+Checkout the [Demo](https://quiet-badlands-90874.herokuapp.com/) 
+
 
 ## Quick Start
 
@@ -35,14 +37,9 @@ npm run build
 
 ## App Info
 
-### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
 
-### Version
 
-2.0.0
 
 ### License
 
